@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavil_govindan
 - 👀 I’m interested in bulding web application
 - 🌱 I’m currently learning angular and react.js
-- 💞️ I’m looking to collaborate on any begginer friendly opensource
+- 💞️ I’m looking to collaborate on any beggainer friendly opensource
 - 📫 please reach me on kavilgovindan02@gmail.com
 
 <!---
